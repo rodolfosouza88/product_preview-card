@@ -22,10 +22,15 @@ Este é um projeto de componente de cartão de produto desenvolvido para pratica
 
 - [Figma - Product Preview Card](https://www.figma.com/design/pj12mWnHYi7Q6xx6C2iztp/product-preview-card-component?node-id=0-1&p=f&t=0FTMcLoZnvEzYhQz-0)
 
+## 🌐 Site do projeto
+
+- [Acesse aqui](https://product-preview-card-sigma-six.vercel.app/)
+
 ## 📦 Como executar o projeto
 
 1. Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/product-preview-card.git
+
 ```
